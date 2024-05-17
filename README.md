@@ -16,6 +16,10 @@ pip install tabulate
 
 pip install colorama
 
+pip install bs4
+
+pip install art
+
 sudo apt install git
 
 git clone https://github.com/Orphan510/scaning-injection
@@ -43,6 +47,10 @@ pip install beautifulSoup
 pip install tabulate
 
 pip install colorama
+
+pip install bs4
+
+pip install art
 
 git clone https://github.com/Orphan510/scaning-injection
 
